@@ -6,6 +6,7 @@ I have seen far too many people using terrible resume templates with too many co
 ### Template 2
 ![image](https://github.com/HiroNewf/Resume-Templates/assets/64501695/9473b752-e98d-41d0-9142-773199419d23)
 ### Template 3
+This was made in google docs and seems to be a bit buggy in docx form so you can also copy it from [here](https://docs.google.com/document/d/1MRuO7Yn3F7nDiL-CTJsNW-XARwAk_h4esN3t82WkZmA/edit?usp=sharing)
 ![image](https://github.com/HiroNewf/Resume-Templates/assets/64501695/c4e3760c-ea54-4377-8bce-aa4eda78328d)
 ## Decent Flow.cv Templates
 > These need a few small modifications to be really good, but they are overall decent already 
