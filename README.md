@@ -8,7 +8,7 @@ I have seen far too many people using terrible resume templates with too many co
 ### Template 3
 ![image](https://github.com/HiroNewf/Resume-Templates/assets/64501695/c4e3760c-ea54-4377-8bce-aa4eda78328d)
 ## Decent Flow.cv Templates
-> Some of these need a few small modifications to be good 
+> These need a few small modifications to be really good, but they are overall decent already 
 1. https://flowcv.com/resume-template/6475d455242e39cc411cdef4
    * Remove the use of rating abilities like it does in the Languages section.
 2. https://flowcv.com/resume-template/6475fecec7d5f023ef5c8c0b
