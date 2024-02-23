@@ -3,6 +3,14 @@ I have seen far to many people using terrible resume templates with too many col
 
 *Also I might have a full resume guide coming out soon shhh*
 
+## My Templates
+Here are three pretty solid resume templates that I threw together. They are all avaible in PDF and Docx form. 
+### Template 1 
+![image](https://github.com/HiroNewf/Resume-Templates/assets/64501695/5fe499fd-b335-48d8-a17e-f6f787430d0b)
+### Template 2
+![image](https://github.com/HiroNewf/Resume-Templates/assets/64501695/9473b752-e98d-41d0-9142-773199419d23)
+### Template 3
+![image](https://github.com/HiroNewf/Resume-Templates/assets/64501695/c4e3760c-ea54-4377-8bce-aa4eda78328d)
 ## Decent Flow.cv Templates
 > Some of these need a few small modifications to be good 
 1. https://flowcv.com/resume-template/6475d455242e39cc411cdef4
