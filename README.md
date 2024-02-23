@@ -10,6 +10,8 @@ Here are three pretty solid resume templates that I threw together, and yes they
 ### Template 2
 ![image](https://github.com/HiroNewf/Resume-Templates/assets/64501695/9473b752-e98d-41d0-9142-773199419d23)
 ### Template 3
+I'm not in love with all the white space in this one, but that is probably in large part due to the lack of a Experience section. TBH this was probably the worst of the templates that I could have picked to demonstrate how to make a resume without any experience, but ah well, I might update it later... or not. Just know that this template will work just fine even if you add an experience section and the other two can also be used without any experience.
+
 ![image](https://github.com/HiroNewf/Resume-Templates/assets/64501695/c4e3760c-ea54-4377-8bce-aa4eda78328d)
 ## Decent Flow.cv Templates
 > Some of these need a few small modifications to be good 
