@@ -1,7 +1,7 @@
 # Resume-Templates
 I have seen far too many people using terrible resume templates with too many columns, too many colors, poor font choice, etc. I know that these templates here might look basic, but trust me simpler is better when it comes to resumes. A format like this is tried and true and its sure to help you improve your resume game. It should also be noted that these are templates for the sake of providing good formatting for your resume, they are not full on resume examples, random Lorem ipsum text is used to fill large amounts of them in. I may or may not have a full resume guide in the works that will go more into depth about how to actually fill a template like this in, common mistakes to avoid when making a resume, etc. For now though, I hope these templates prove useful to you. 
 ## My Templates
-These were made in Google Docs and work best in Google Docs, but you can also download the Docx versions from this repo and they seem to work just fine from what I can tell.
+These were made in Google Docs and work best in Google Docs, but you can also download the Docx versions from this repo and they seem to work just fine from what I can tell. Google Docs versions are linked below:
 * [Template #1](https://docs.google.com/document/d/1J4sp3JUwCBvrW86yqdl4lY4yh5aq5t2VXEgDaBta-L8/edit?usp=sharing)
 * [Template #2](https://docs.google.com/document/d/12H4KMgMgGlnulCy4bkjIES8wI7D1brkuQS_vEVWlqmI/edit?usp=sharing)
 * [Template #3](https://docs.google.com/document/d/1MRuO7Yn3F7nDiL-CTJsNW-XARwAk_h4esN3t82WkZmA/edit?usp=sharing)
