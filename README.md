@@ -6,11 +6,11 @@ These were made in Google Docs and work best in Google Docs, but you can also do
 * [Template #2](https://docs.google.com/document/d/12H4KMgMgGlnulCy4bkjIES8wI7D1brkuQS_vEVWlqmI/edit?usp=sharing)
 * [Template #3](https://docs.google.com/document/d/1MRuO7Yn3F7nDiL-CTJsNW-XARwAk_h4esN3t82WkZmA/edit?usp=sharing)
 ### Template 1 
-![image](https://github.com/HiroNewf/Resume-Templates/assets/64501695/5fe499fd-b335-48d8-a17e-f6f787430d0b)
+![temp1](https://github.com/HiroNewf/Resume-Templates/assets/64501695/561a755e-fcd2-452c-b42e-dd14df192778)
 ### Template 2
-![image](https://github.com/HiroNewf/Resume-Templates/assets/64501695/9473b752-e98d-41d0-9142-773199419d23)
+![temp2](https://github.com/HiroNewf/Resume-Templates/assets/64501695/96cec834-8aa0-4955-b226-a196a03baa2c)
 ### Template 3
-![image](https://github.com/HiroNewf/Resume-Templates/assets/64501695/c4e3760c-ea54-4377-8bce-aa4eda78328d)
+![temp3](https://github.com/HiroNewf/Resume-Templates/assets/64501695/041ac8e8-c52f-4549-b265-d88a2c93b6c9)
 ## Decent Flow.cv Templates
 > These need a few small modifications to be really good, but they are overall decent already 
 1. https://flowcv.com/resume-template/6475d455242e39cc411cdef4
